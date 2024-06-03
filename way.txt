@@ -1,0 +1,19 @@
+create a project folder
+creat a css folder
+creat a image folder
+creat index file
+write the code !+tap
+creat link of main css file (ex:<link rel="stylesheet" href="css/leon.css" />)
+go to web to download normalize/css
+creat file css have the normalize codes
+go to google fonts to copy the code of fonts you will use to html
+copy the css code of fonts and put in body
+creat golbal values for css main file 
+go to awesome libray to can use icons
+download the free web version & extract
+copy web fonts in side folder of project beside folder of css
+open css file in download file and copy all.mins in side the css folder of your project
+creat new css file of all.min
+make the continer css 
+put the media quiers width for screens
+start make header for design (html +css)
